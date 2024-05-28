@@ -14,7 +14,7 @@
   "dependencies": {
     "@slack/bolt": "^3.3.0",
     "dotenv": "^8.2.0",
-    "mysql2": "2.1.0",
+    "mysql2": "3.9.8",
     "mysql2-promise": "0.1.4"
   },
   "devDependencies": {
